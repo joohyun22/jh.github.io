@@ -23,7 +23,8 @@ description: >- github에서의 jekyll 테마를 연습해보고있습니다.  #
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://joohyun22/github.io"
+baseurl : "/jh.github.io"
 
 github:
   username: github_joohyun22 # change to your GitHub username
